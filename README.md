@@ -9,10 +9,10 @@ I might have done many errors, left many typos, and some parts might be deprecat
     - Apache Spark: what it is?
     - Installation @ HOME
     - Using the PySpark shell
-    - Your first Spark program.
+    - Your first Spark program
 - Part II: Spark SQL and DataFrames
-    - A tour of data formats.
-    - Loading and distributing data: Spark SQL and DataFrames.
+    - A tour of data formats
+    - Loading and distributing data: Spark SQL and DataFrames
 - Part III: Data manipulation
     - Strict vs non-strict (lazy) evaluation
     - Transformations vs actions
@@ -24,12 +24,12 @@ I might have done many errors, left many typos, and some parts might be deprecat
     - Testing using doctest.
     - Automating with Travis.
 - Part VI: Interfacing with Spark
-    - From Spark to PySpark: understanding log4j.
+    - From Spark to PySpark: understanding log4j
     - Interfacing C++ libraries with PySpark
-    - C/C++/Fortran to Scala.
+    - C/C++/Fortran to Scala
 
 - Appendix A: Apache Spark @ NERSC
-    - Apache Spark and HPC machines.
+    - Apache Spark and HPC machines
     - Batch jobs @ NERSC
     - JupyterLab @ NERSC
 
