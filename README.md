@@ -37,7 +37,7 @@ Welcome to the series of notebooks on Apache Spark! The main goal of this series
 - Appendix B: Apache Spark @ DESC
     - Some examples on how to use Spark with LSST data
 
-- FAQ
+- [FAQ](https://github.com/astrolabsoftware/spark-tutorials/blob/master/spark_tutorial_FAQ.ipynb)
 
 ## Bibliography and useful links
 
