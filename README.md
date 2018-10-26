@@ -14,7 +14,19 @@ I might have done many errors, left many typos, and some parts might be deprecat
     - A tour of data formats.
     - Loading and distributing data: Spark SQL and DataFrames.
 - Part III: Data manipulation
-
+    - Strict vs non-strict (lazy) evaluation
+    - Transformations vs actions
+    - User Defined Functions
+    - Cache or not cache? That's the question.
+- Part IV: Spark UI and debugging
+    - Monitoring logs and understanding them
+- Part V: Testing Spark applications
+    - Testing using doctest.
+    - Automating with Travis.
+- Part VI: Interfacing with Spark
+    - From Spark to PySpark: understanding log4j.
+    - Interfacing C++ libraries with PySpark
+    - C/C++/Fortran to Scala.
 
 - Appendix A: Apache Spark @ NERSC
     - Apache Spark and HPC machines.
