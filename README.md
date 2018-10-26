@@ -6,12 +6,12 @@ Welcome to the series of notebooks on Apache Spark! The main goal of this series
 
 ## Table of content:
 
-- Part I: Installation and first steps
+- [Part I: Installation and first steps](https://github.com/astrolabsoftware/spark-tutorials/blob/master/spark_tutorial_part1_basics.ipynb)
     - Apache Spark: what it is?
     - Installation @ HOME
     - Using the PySpark shell
     - Your first Spark program
-- Part II: Spark SQL and DataFrames
+- [Part II: Spark SQL and DataFrames](https://github.com/astrolabsoftware/spark-tutorials/blob/master/spark_tutorial_part2_io.ipynb)
     - A tour of data formats
     - Loading and distributing data: Spark SQL and DataFrames
 - Part III: Data manipulation
@@ -29,7 +29,7 @@ Welcome to the series of notebooks on Apache Spark! The main goal of this series
     - Interfacing C++ libraries with PySpark
     - C/C++/Fortran to Scala
 
-- Appendix A: Apache Spark @ NERSC
+- [Appendix A: Apache Spark @ NERSC](https://github.com/astrolabsoftware/spark-tutorials/blob/master/spark_tutorial_appA_at_nersc.ipynb)
     - Apache Spark and HPC machines
     - Batch jobs @ NERSC
     - JupyterLab @ NERSC
