@@ -12,8 +12,9 @@ Welcome to the series of notebooks on Apache Spark! The main goal of this series
     - Using the PySpark shell
     - Your first Spark program
 - [Part II: Spark SQL and DataFrames](https://github.com/astrolabsoftware/spark-tutorials/blob/master/spark_tutorial_part2_io.ipynb)
-    - A tour of data formats
-    - Loading and distributing data: Spark SQL and DataFrames
+    - Apache Spark Data Sources.
+    - Loading and distributing data: Spark SQL and DataFrames.
+    - Hands-on: RDD vs DataFrame, partitioning, limits, ...
 - Part III: Data manipulation
     - Strict vs non-strict (lazy) evaluation
     - Transformations vs actions
