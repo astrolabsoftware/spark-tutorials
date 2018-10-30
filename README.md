@@ -12,20 +12,24 @@ Welcome to the series of notebooks on Apache Spark! The main goal of this series
     - Using the PySpark shell
     - Your first Spark program
 - [Part II: Spark SQL and DataFrames](https://github.com/astrolabsoftware/spark-tutorials/blob/master/spark_tutorial_part2_io.ipynb)
-    - Apache Spark Data Sources.
-    - Loading and distributing data: Spark SQL and DataFrames.
-    - Hands-on: RDD vs DataFrame, partitioning, limits, ...
-- [Part III: Data manipulation](https://github.com/astrolabsoftware/spark-tutorials/blob/master/spark_tutorial_part3_manipulation.ipynb)
+    - Apache Spark Data Sources
+    - Spark SQL and DataFrames
+    - Loading and distributing data: RDD vs DataFrame, partitioning, limits, ...
+- [Part III: From Scala to Python](https://github.com/astrolabsoftware/spark-tutorials/blob/master/spark_tutorial_part3_scala2python.ipynb)
     - Strict vs non-strict (lazy) evaluation
     - Transformations vs actions
     - User Defined Functions
     - Cache or not cache? That's the question.
-- Part IV: Spark UI and debugging
+- Part IV: PySpark, Numpy, Pandas and co.
+    - Can I use my regular python packages with PySpark?
+    - More complex UDF
+    - Visualising data faster than ever
+- Part V: Spark UI and debugging
     - Monitoring logs and understanding them
-- Part V: Testing Spark applications
+- Part VI: Testing Spark applications
     - Testing using doctest.
     - Automating with Travis.
-- Part VI: Interfacing with Spark
+- Part VII: Interfacing with Spark
     - From Spark to PySpark: understanding log4j
     - Interfacing C++ libraries with PySpark
     - C/C++/Fortran to Scala
