@@ -15,7 +15,7 @@ Welcome to the series of notebooks on Apache Spark! The main goal of this series
     - Apache Spark Data Sources.
     - Loading and distributing data: Spark SQL and DataFrames.
     - Hands-on: RDD vs DataFrame, partitioning, limits, ...
-- Part III: Data manipulation
+- [Part III: Data manipulation](https://github.com/astrolabsoftware/spark-tutorials/blob/master/spark_tutorial_part3_manipulation.ipynb)
     - Strict vs non-strict (lazy) evaluation
     - Transformations vs actions
     - User Defined Functions
